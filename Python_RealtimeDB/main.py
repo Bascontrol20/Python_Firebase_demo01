@@ -4,7 +4,7 @@ firebase = firebase.FirebaseApplication(
 
 )
 mydata = {
-    'fname' : 'RamBas',
+    'fname' : 'RamBas1',
     'lname' : 'BBAS',
     'email' : 'Kridtirat@mitsubishifa.co.th',
     'phone' : '0654641989'
